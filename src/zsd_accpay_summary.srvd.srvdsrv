@@ -1,0 +1,4 @@
+@EndUserText.label: 'Accounts Payable Summary Report Service'
+define service ZSD_ACCPAY_SUMMARY {
+  expose ZC_ACCPAY_SUMMARY;
+}

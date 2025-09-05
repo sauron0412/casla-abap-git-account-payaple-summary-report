@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Báo cáo tổng hợp công nợ phải trả",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Báo cáo tổng hợp công nợ phải trả"
+  },
+  "ui5AppDetails": {
+    "appId": "zaccpaysummary"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_7211E371DAFB5C6AE8F3F081BA1B42118134EC27_TM",
+    "semanticObject": "z_accpay_sum",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_7211E371DAFB5C6AE8F3F081BA1B42118134EC27_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Báo cáo tổng hợp công nợ phải trả"
+      }
+    }
+  ]
+}
